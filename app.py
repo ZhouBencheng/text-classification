@@ -3,7 +3,7 @@ import torch
 import torch.nn.functional as F
 import gradio as gr
 
-model_dir = "bentom/my-bert-classification"
+model_dir = "ZhouBencheng/text-classification"
 
 config = AutoConfig.from_pretrained(model_dir, num_labels=3, finetuning_task="text-classification")
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
