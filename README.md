@@ -1,5 +1,3 @@
-# Text Classification
-
 ---
 title: Text Classification
 emoji: 😻
@@ -11,6 +9,8 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 ---
+
+# Text Classification
 
 ## ✨ Introduction
 
